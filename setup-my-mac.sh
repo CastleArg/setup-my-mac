@@ -10,3 +10,7 @@ brew install --cask docker
 brew install --cask ableton-live-suite
 
 brew install --cask vlc 
+
+
+brew install --cask transmission 
+brew install --cask spotify
