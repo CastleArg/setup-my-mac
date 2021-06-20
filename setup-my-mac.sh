@@ -7,10 +7,12 @@ xcode-select --install
 brew install --cask visual-studio-code
 brew install --cask brave-browser
 brew install --cask docker
+brew install gh
 brew install --cask ableton-live-suite
 
 brew install --cask vlc 
 
 
 brew install --cask transmission 
+brew install --cask handbrake
 brew install --cask spotify
