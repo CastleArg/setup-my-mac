@@ -6,7 +6,7 @@ xcode-select --install
 # basics
 brew install --cask brave-browser
 brew install --cask spotify
-
+brew install --cask microsoft-azure-storage-explorer
 
 # dev
 brew install gh
