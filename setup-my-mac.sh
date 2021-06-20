@@ -15,6 +15,7 @@ brew install --cask docker
 
 # music
 brew install --cask ableton-live-suite
+brew install serialosc
 
 # media
 brew install --cask vlc 
